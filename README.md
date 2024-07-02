@@ -1,14 +1,14 @@
 ```js
 import Desenvolvedor from "LucasE616";
 
-class SobreMim extends Desenvolvedor {
+class AboutMe extends Developer {
   nome = "Lucas Emanuel";
   area = "Desenvolvedor Full Stack";
   trabalho = "Plant Evolution & RLV Tecnologia";
   local = "Minas Gerais";
 }
 
-class Skills extends Desenvolvedor {
+class Skills extends Developer {
   linguagens = ["HTML & CSS & JavaScript & JAVA"];
   bibliotecas = ["Node.js & JUnit"];
   frameworks = ["Vue.js"];
