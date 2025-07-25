@@ -3,15 +3,14 @@ import Developer from "LucasE616";
 
 class AboutMe extends Developer {
   nome = "Lucas Emanuel";
-  area = "Desenvolvedor Full Stack";
-  trabalho = "Plant Evolution & RLV Tecnologia";
+  area = "Programador Full Stack";
+  trabalho = "Plant Evolution & e-Paper";
   local = "Minas Gerais";
 }
 
 class Skills extends Developer {
-  linguagens = ["HTML & CSS & JavaScript & JAVA"];
-  bibliotecas = ["Node.js & JUnit"];
-  frameworks = ["Vue.js"];
+  linguagens = ["JavaScript, Python"];
+  frameworks = ["Node.js, Vue.js"];
 }
 ```
 
