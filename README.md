@@ -10,7 +10,7 @@ class AboutMe extends Developer {
 
 class Skills extends Developer {
   linguagens = ["JavaScript, Python"];
-  frameworks = ["Node.js, Vue.js , Jest"];
+  frameworks = ["Node.js, Vue.js, Jest"];
 }
 ```
 
